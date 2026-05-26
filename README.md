@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:PRAVEEN J
+### Register Number:212225220073
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
