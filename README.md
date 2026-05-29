@@ -47,6 +47,13 @@
 
 ## Output:
 
+
+<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/fc8cceb3-44ba-4620-9784-ff6176a4f9b9" />
+<img width="1280" height="606" alt="image" src="https://github.com/user-attachments/assets/98036754-240a-4da9-a138-ad744f34cfaa" />
+<img width="1280" height="609" alt="image" src="https://github.com/user-attachments/assets/3f182a9d-b0a9-4d61-baa5-d0cbe4d24f6d" />
+
+
+
 ### Name:PRAVEEN J
 ### Register Number:212225220073
 
